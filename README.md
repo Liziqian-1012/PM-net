@@ -1,4 +1,4 @@
-# PM-net
+# PM-net(Main code will be released right away until the paper is accepted ！！！)
 A Patch Matching Network of Optical and SAR Images Based on Deep Learning
   
 Original Dataset:https://github.com/yaoxu008/QXS-SAROPT

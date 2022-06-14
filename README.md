@@ -1,7 +1,6 @@
 # PM-net
-PM-Net: A Patch Matching Network of Optical and SAR Images Based on Deep Learning
+PM-Net: A Multi-Level Keypoints Detector and Patch Feature Learning Network for Optical and SAR Image Matching
 
-(Main code will be released immediately till the paper is accepted )
 
 Original Dataset:https://github.com/yaoxu008/QXS-SAROPT
 
